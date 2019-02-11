@@ -139,13 +139,13 @@ const coloradoClimbingAreas  = {
                 "name": "Depends",
                 "grade": "5.10a",
                 "type": ["sport"],
-                "link": 
+                "link": ""
             },
             {
                 "name": "Bobs Crack",
                 "grade": "5.10a",
                 "type": ["trad"],
-                "link": 
+                "link": ""
             },
             {
                 "name": "Ego Buster",
